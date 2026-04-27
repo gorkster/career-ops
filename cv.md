@@ -10,7 +10,7 @@ Experienced Cloud Engineer with over 15 years of expertise in AWS, Terraform, an
 
 ## Work Experience
 
-### Bow River Solutions -- Littleton, CO
+### Bow River Solutions
 **Cloud Engineer**
 01/2024 - Present
 
